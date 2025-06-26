@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    background: #f4f7fa;
+    color: #333;
+}
+
+header {
+    background: #0080ff;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+#map-container {
+    padding: 2rem;
+}
+
+#mapid {
+    height: 80vh;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+.marker-cluster {
+    background: linear-gradient(to bottom right, #0080ff, #00c0ff);
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.marker-cluster div {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
