@@ -8,7 +8,7 @@ Carte de toutes les auto-écoles labélisées
 - installer node.js
 - sur une invite de commande aller à l'endroit ou les fichiers son stocker et taper la commande: http-server
 - 2 liens sont générés, copier-coller un des 2 sur un browser
-- une page blanche est générée avec tout les fichiers
+- la carte apparaît
 
 ## Pour passer d'un fichier csv (comme par exemple le fichier auto-ecoles.csv) à un fichier json utilisable (comme autoecoles_simplifiees.json):
 
